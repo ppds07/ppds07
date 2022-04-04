@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppds07
-- 👀 I’m interested in Coding & White Hacking ( for my purpose & benefit )
-- 🌱 I’m currently learning Python, Linux Terminal & Ruby
+- 👀 I’m interested in Coding & Grey Hacking ( for my purpose & benefit )
+- 🌱 I’m currently learning Python, Linux Terminal & C++
 - 💞️ I’m looking to collaborate with whoever intrested in doing so.
 - 📫 Reach me through mail: priyadharshansharma@gmail.com
 
