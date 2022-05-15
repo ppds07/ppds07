@@ -5,6 +5,10 @@
 - 📫 Reach me through mail: priyadharshansharma@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ppds07&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[Priyadharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppds07&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppds07&layout=compact)](https://github.com/ppds07/github-readme-stats)
+
 
 <!---
 ppds07/ppds07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
