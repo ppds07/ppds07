@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Linux Terminal & C++
 - 💞️ I’m looking to collaborate with whoever intrested in doing so.
 - 📫 Reach me through mail: priyadharshansharma@gmail.com
-- 🎈 Google Developer Profile: g.dev/ppds07
+- 🎈 Google Developer Profile: [www.g.dev/ppds07](https://g.dev/ppds07)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ppds07&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ![ppds07's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppds07&show_icons=true&theme=radical)
