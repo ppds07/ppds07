@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ppds07
-- 👀 I’m interested in Coding & Grey Hacking ( for my purpose & benefit )
+- 👋 Hi, I’m Priyadharshan
+- 👀 I’m interested in Kernel building and Java
 - 🌱 I’m currently learning Java and Build-root
 - 💞️ I’m looking to collaborate with whoever intrested in doing so.
 - 📫 Reach me through mail: priyadharshansharma@gmail.com
