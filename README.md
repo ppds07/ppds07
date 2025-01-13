@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kernel building and Java
 - 🌱 I’m currently learning Java and Build-root
 - 💞️ I’m looking to collaborate with whoever intrested in doing so.
-- 📫 Reach me through mail: priyadharshansharma@gmail.com
+- 📫 Reach me through mail: priyadharshansharma@duck.com
 - 🎈 Google Developer Profile: [www.g.dev/ppds07](https://g.dev/ppds07)
 
 
